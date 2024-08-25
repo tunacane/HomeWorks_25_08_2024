@@ -4,7 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-       string cumle1 = "Birinci sorudaki kelime sayısını bulunuz";
+        System.Console.WriteLine("Bir cümlr girinizi: ");
+
+        string cumle1 = Console.ReadLine();
+
+     //  string cumle1 = "Birinci sorudaki kelime sayısını bulunuz";
        string[] word = cumle1.Split(" "); 
        
        int wordCount = word.Length;

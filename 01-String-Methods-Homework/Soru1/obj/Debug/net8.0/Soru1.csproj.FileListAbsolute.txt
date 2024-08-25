@@ -12,3 +12,4 @@ C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week0
 C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru1\obj\Debug\net8.0\Soru1.pdb
 C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru1\obj\Debug\net8.0\Soru1.genruntimeconfig.cache
 C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru1\obj\Debug\net8.0\ref\Soru1.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru1\obj\Debug\net8.0\Soru1.sourcelink.json
