@@ -12,6 +12,13 @@ class Program
 
        string[] word = sentence.ToLower().Split(" ");
 
+       int wordAccount = word.Length;
+
+       if (sentence.Contains(searchWord))
+       {
+        
+       }
+
     
 
     }

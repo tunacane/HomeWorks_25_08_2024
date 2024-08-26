@@ -1,0 +1,15 @@
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\bin\Debug\net8.0\Soru5.exe
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\bin\Debug\net8.0\Soru5.deps.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\bin\Debug\net8.0\Soru5.runtimeconfig.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\bin\Debug\net8.0\Soru5.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\bin\Debug\net8.0\Soru5.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfoInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfo.cs
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.sourcelink.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\refint\Soru5.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\Soru5.genruntimeconfig.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\01-String-Methods-Homework\Soru5\obj\Debug\net8.0\ref\Soru5.dll
