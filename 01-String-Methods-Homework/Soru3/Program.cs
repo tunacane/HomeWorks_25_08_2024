@@ -10,14 +10,19 @@ class Program
        System.Console.WriteLine("Aranacak kelimeyi giriniz: ");
        string searchWord = Console.ReadLine();
 
-       string[] word = sentence.ToLower().Split(" ");
+       //char[] seperators = {' ', ' '};
 
-       int wordAccount = word.Length;
+       string[] word = sentence.ToLower().Split({searchWord});
 
-       if (sentence.Contains(searchWord))
-       {
-        
-       }
+       int wordAccount = searchWord;
+       System.Console.WriteLine(wordAccount);
+
+
+
+
+   
+   
+    
 
     
 
