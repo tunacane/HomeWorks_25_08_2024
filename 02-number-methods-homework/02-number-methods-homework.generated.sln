@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-number-methods-homework", "02-number-methods-homework.csproj", "{066BC294-C33C-4690-BA73-FA151FE98A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-number-methods-homework", "02-number-methods-homework.csproj", "{3A6FE467-2ED0-4462-9D8C-50CC73810400}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru1", "Soru1\Soru1.csproj", "{5B917578-A579-43A4-82C4-BA47EA08AE55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru1", "Soru1\Soru1.csproj", "{9567220E-B03C-49DD-87AC-9CABFEA65B30}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru2", "Soru2\Soru2.csproj", "{8E7D9552-D042-4946-B4CC-70F6F6B3319B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru2", "Soru2\Soru2.csproj", "{8EFA2213-62AB-419B-9052-2F1ED6D93109}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru3", "Soru3\Soru3.csproj", "{3EC192D0-2847-4405-9F27-290109976E90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru3", "Soru3\Soru3.csproj", "{E72A4FB4-5C46-49A8-B715-8005B7AA49AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru4", "Soru4\Soru4.csproj", "{7C544D1F-452C-4AE1-94FD-1BC0E73C672B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru5", "Soru5\Soru5.csproj", "{4090ABD0-42B7-46F8-9947-A14CCA9869BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru6", "Soru6\Soru6.csproj", "{8C83F9A8-3F0E-4CF3-9003-78F830939C85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru7", "Soru7\Soru7.csproj", "{0DB7529D-992C-4051-8D8E-0816B461A325}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +25,38 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{066BC294-C33C-4690-BA73-FA151FE98A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{066BC294-C33C-4690-BA73-FA151FE98A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{066BC294-C33C-4690-BA73-FA151FE98A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{066BC294-C33C-4690-BA73-FA151FE98A06}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B917578-A579-43A4-82C4-BA47EA08AE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B917578-A579-43A4-82C4-BA47EA08AE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B917578-A579-43A4-82C4-BA47EA08AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B917578-A579-43A4-82C4-BA47EA08AE55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E7D9552-D042-4946-B4CC-70F6F6B3319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E7D9552-D042-4946-B4CC-70F6F6B3319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E7D9552-D042-4946-B4CC-70F6F6B3319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E7D9552-D042-4946-B4CC-70F6F6B3319B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3EC192D0-2847-4405-9F27-290109976E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3EC192D0-2847-4405-9F27-290109976E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3EC192D0-2847-4405-9F27-290109976E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3EC192D0-2847-4405-9F27-290109976E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6FE467-2ED0-4462-9D8C-50CC73810400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6FE467-2ED0-4462-9D8C-50CC73810400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6FE467-2ED0-4462-9D8C-50CC73810400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6FE467-2ED0-4462-9D8C-50CC73810400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9567220E-B03C-49DD-87AC-9CABFEA65B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9567220E-B03C-49DD-87AC-9CABFEA65B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9567220E-B03C-49DD-87AC-9CABFEA65B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9567220E-B03C-49DD-87AC-9CABFEA65B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFA2213-62AB-419B-9052-2F1ED6D93109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFA2213-62AB-419B-9052-2F1ED6D93109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFA2213-62AB-419B-9052-2F1ED6D93109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFA2213-62AB-419B-9052-2F1ED6D93109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72A4FB4-5C46-49A8-B715-8005B7AA49AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72A4FB4-5C46-49A8-B715-8005B7AA49AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72A4FB4-5C46-49A8-B715-8005B7AA49AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72A4FB4-5C46-49A8-B715-8005B7AA49AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C544D1F-452C-4AE1-94FD-1BC0E73C672B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C544D1F-452C-4AE1-94FD-1BC0E73C672B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C544D1F-452C-4AE1-94FD-1BC0E73C672B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C544D1F-452C-4AE1-94FD-1BC0E73C672B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4090ABD0-42B7-46F8-9947-A14CCA9869BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4090ABD0-42B7-46F8-9947-A14CCA9869BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4090ABD0-42B7-46F8-9947-A14CCA9869BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4090ABD0-42B7-46F8-9947-A14CCA9869BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C83F9A8-3F0E-4CF3-9003-78F830939C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C83F9A8-3F0E-4CF3-9003-78F830939C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C83F9A8-3F0E-4CF3-9003-78F830939C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C83F9A8-3F0E-4CF3-9003-78F830939C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB7529D-992C-4051-8D8E-0816B461A325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB7529D-992C-4051-8D8E-0816B461A325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB7529D-992C-4051-8D8E-0816B461A325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB7529D-992C-4051-8D8E-0816B461A325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
