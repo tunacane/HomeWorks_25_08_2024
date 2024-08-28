@@ -14,8 +14,5 @@ class Program
 
         System.Console.WriteLine(date.ToString("HH"));
 
-        // System.Console.WriteLine(now.ToString("HH:mm:ss"));
-
-
     }
 }
