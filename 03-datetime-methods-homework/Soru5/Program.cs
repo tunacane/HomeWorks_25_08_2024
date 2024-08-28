@@ -4,10 +4,23 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Bir tarih giriniz: ");
-        DateTime date = Convert.ToDateTime(Console.ReadLine());
+      class Program
+    {
+        static void Main(string[] args)
+        {
 
-        int dayOfDate = date.DayOfYear;
+            Console.WriteLine("Bir tarih giriniz: ");
+
+            DateTime date = Convert.ToDateTime(Console.ReadLine());
+
+            bool leapYear = DateTime.IsLeapYear(date);
+
+            System.Console.WriteLine(leapYear);
+        }
+    }
+
+
+    int dayOfDate = date.DayOfYear;
 
         System.Console.WriteLine(dayOfDate);
 
