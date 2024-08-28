@@ -1,0 +1,15 @@
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\bin\Debug\net8.0\Soru10.exe
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\bin\Debug\net8.0\Soru10.deps.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\bin\Debug\net8.0\Soru10.runtimeconfig.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\bin\Debug\net8.0\Soru10.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\bin\Debug\net8.0\Soru10.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.AssemblyInfoInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.AssemblyInfo.cs
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.csproj.CoreCompileInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.sourcelink.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\refint\Soru10.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\Soru10.genruntimeconfig.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\03-datetime-methods-homework\Soru10\obj\Debug\net8.0\ref\Soru10.dll
