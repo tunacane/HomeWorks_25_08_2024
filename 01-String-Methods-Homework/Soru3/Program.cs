@@ -12,10 +12,17 @@ class Program
 
        //char[] seperators = {' ', ' '};
 
-       string[] word = sentence.ToLower().Split({searchWord});
+       //string word = sentence.ToLower().Replace(searchWord, " ");
 
-       int wordAccount = searchWord;
-       System.Console.WriteLine(wordAccount);
+       int sayac = (sentence.Length - sentence.Replace(searchWord,"").Length) / searchWord.Length;
+
+       System.Console.WriteLine(sayac);
+
+
+
+
+
+       
 
 
 
