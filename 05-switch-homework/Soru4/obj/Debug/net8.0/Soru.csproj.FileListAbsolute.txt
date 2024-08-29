@@ -1,0 +1,15 @@
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\bin\Debug\net8.0\Soru.exe
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\bin\Debug\net8.0\Soru.deps.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\bin\Debug\net8.0\Soru.runtimeconfig.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\bin\Debug\net8.0\Soru.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\bin\Debug\net8.0\Soru.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.AssemblyInfoInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.AssemblyInfo.cs
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.csproj.CoreCompileInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.sourcelink.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\refint\Soru.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\Soru.genruntimeconfig.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\05-switch-homework\Soru4\obj\Debug\net8.0\ref\Soru.dll
