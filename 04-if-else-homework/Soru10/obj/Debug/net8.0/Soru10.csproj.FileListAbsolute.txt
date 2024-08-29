@@ -1,0 +1,5 @@
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\04-if-else-homework\Soru10\obj\Debug\net8.0\Soru10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\04-if-else-homework\Soru10\obj\Debug\net8.0\Soru10.AssemblyInfoInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\04-if-else-homework\Soru10\obj\Debug\net8.0\Soru10.AssemblyInfo.cs
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\04-if-else-homework\Soru10\obj\Debug\net8.0\Soru10.csproj.CoreCompileInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week03\25-08-2024\HomeWorks_25_08_2024\04-if-else-homework\Soru10\obj\Debug\net8.0\Soru10.sourcelink.json
