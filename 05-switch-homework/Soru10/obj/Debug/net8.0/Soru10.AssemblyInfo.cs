@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("05-switch-homework")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Soru10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87b45c1306cf33349a9b98b77cc4b061e3479f9")]
-[assembly: System.Reflection.AssemblyProductAttribute("05-switch-homework")]
-[assembly: System.Reflection.AssemblyTitleAttribute("05-switch-homework")]
+[assembly: System.Reflection.AssemblyProductAttribute("Soru10")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Soru10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
