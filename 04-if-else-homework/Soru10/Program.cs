@@ -8,6 +8,7 @@ class Program
         int num1 = Convert.ToInt32(Console.ReadLine());
 
         if (IsPrime(num1))
+
         {
             Console.WriteLine($"{num1} bir asal sayıdır.");
         }

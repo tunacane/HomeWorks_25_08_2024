@@ -38,10 +38,6 @@ class Program
             System.Console.WriteLine($"İki sayının oranı: {bolme}");
         }
 
-     
-
-
-
 
     }
 }

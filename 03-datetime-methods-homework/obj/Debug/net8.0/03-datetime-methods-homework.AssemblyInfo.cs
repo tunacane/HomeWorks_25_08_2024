@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-datetime-methods-homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd2dd5a809b3c814a4988422fe5296a718b5b56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+334dc8eee0a440f54482a59e79f0a0cdcc98340e")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-datetime-methods-homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-datetime-methods-homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
